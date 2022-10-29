@@ -1,0 +1,3 @@
+name: imageUpload
+handlers:
+- functions/*.ts
